@@ -1,6 +1,6 @@
 **金融科技-文字探勘與機器學習 (Fintech-Text Mining and Machine Learning)**
 
-**W12: LINEBOT 教學**
+**W12 LINEBOT 教學**
 
 **講員：龔泓愷、何承諭、謝君模**
 
